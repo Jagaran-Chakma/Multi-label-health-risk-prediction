@@ -1,4 +1,4 @@
-edu_level,income_status,marital_status,husband_occu,unmarr_face_challenges,water_source,distance_of_source,water_availability ,seasonal_water_shortage,purification_method,water_for_handwashing,drink_from_unreliable_sources,recent_health_problems,menstrual_hygiene,exp_health_issue,medical_evidence,mental_stress_level,time_of_feeling_anxiety,govt_programs,water_affects_work,reason_of_water_scarcity
+edu_level,income_status,marital_status,husband_occu,unmarr_face,water_source,distance_of_source,water_availability ,seasonal_shortage,purification_method,water_for_handwashing,drink_from_unreliable_sources,recent_health_problems,menstrual_hygiene,exp_health_issue,medical_evidence,mental_stress_level,time_of_feeling_anxiety,govt_programs,water_affects_work,reason_of_water_scarcity
 Higher Education,Middle Class,Unmarried  ,,No,Rain,In the House or 0 meter,1,0,0,1,Never,Others ,0,0,0,Strong,Never ,No ,0,Others 
 Higher Education,Middle Class,Unmarried  ,,No,Tubewell ,Less than 500 meters ,1,1,0,1,Sometimes,"Diarrhea , Skin Disease, Malnutrition",0,0,0,Strong,Rarely,No ,1,Government mismanagement 
 Higher Education,Middle Class,Unmarried ,,No,Tubewell ,In the House or 0 meter ,1,1,0,1,Sometimes ,"Diarrhea , Skin Disease ,Dehydration ",1,0,1,Low,Rarely,Yes ,1,Overuse or pollution of water sources 
@@ -118,4 +118,5 @@ No Education,Lower Class,Married,Farmer ,Not sure,Jiri ,500 meters to 1 km ,1,0,
 Secondary Education,Middle Class,Married,Farmer ,No,Kua ,Less than 500 meters,1,0,0,1,Never,Reproductive Health Issues,0,0,0,Moderate,Several times a week ,No,1,Climate change 
 Secondary Education,Middle Class,Married,Businessman ,No,Tubewell ,In the House or 0 meter,1,0,2,1,Never ,Diarrhea ,1,0,0,Moderate,Never,No,0,Climate change 
 Primary Education,Middle Class,Married,Day Laborer,No,Jiri ,500 meters to 1 km ,1,0,0,1,Never,"Diarrhea , Urinary Tract Infections, Dehydration",1,0,0,Low,Rarely ,Yes,1,Poor infrastructure 
+
 
