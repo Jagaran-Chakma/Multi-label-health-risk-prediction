@@ -1,121 +1,121 @@
-name ,age,edu_level,income_status,marital_status,husband_occu,unmarr_face_challenges,water_source,distance_of_source,water_availability ,seasonal_water_shortage,purification_method,water_for_handwashing,drink_from_unreliable_sources,recent_health_problems,menstrual_hygiene,exp_health_issue,medical_evidence,mental_stress_level,time_of_feeling_anxiety,govt_programs,water_affects_work,reason_of_water_scarcity
-Jyaki chakma,23,Higher Education,Middle Class,Unmarried  ,,No,Rain,In the House or 0 meter,1,0,0,1,Never,Others ,0,0,0,Strong,Never ,No ,0,Others 
-Julia chakma,23,Higher Education,Middle Class,Unmarried  ,,No,Tubewell ,Less than 500 meters ,1,1,0,1,Sometimes,"Diarrhea , Skin Disease, Malnutrition",0,0,0,Strong,Rarely,No ,1,Government mismanagement 
-Anoma Chakma ,24,Higher Education,Middle Class,Unmarried ,,No,Tubewell ,In the House or 0 meter ,1,1,0,1,Sometimes ,"Diarrhea , Skin Disease ,Dehydration ",1,0,1,Low,Rarely,Yes ,1,Overuse or pollution of water sources 
-Rainy chakma,18,Higher Education ,Middle Class,Unmarried  ,,Not sure,Rain,In the House or 0 meter,1,0,2,1,Never ,Others ,1,0,0,Strong,Rarely ,Yes ,0,Climate change
-Chandrima chakma ,18,Secondary Education,Middle Class,Unmarried  ,,Yes,Tubewell ,Less than 500 meters,1,0,2,1,Never ,Skin Disease,0,0,0,Moderate,Rarely ,No ,0,Government mismanagement 
-Tora moni chakma,20,Higher Education ,Middle Class,Unmarried  ,,No,Tubewell ,500 meters to 1 km ,1,1,0,1,Sometimes,"Diarrhea , Urinary Tract Infections , Skin Disease , Malnutrition ",1,0,0,Moderate,Several times a week,No ,1,Poor infrastructure 
-Boishali Chakma,24,Higher Education ,Lower Class ,Unmarried  ,,Yes,Tubewell ,In the House or 0 meter,1,0,2,1,Never,Skin Disease ,1,0,0,Moderate,Rarely ,Yes ,0,Climate change 
-Purnima chakma ,25,Higher Education ,Middle Class,Unmarried  ,,Not sure,Tubewell ,Less than 500 meters,1,1,2,1,Sometimes ,"Skin Disease, Dehydration , Others ",1,1,0,Moderate,Rarely,Yes ,1,Overuse or pollution of water sources
-Neksi Chakma ,24,Higher Education ,Lower Class ,Unmarried  ,,Not sure,Kua ,500 meters to 1 km ,0,1,0,1,Sometimes ,"Urinary Tract Infections , Skin Disease , Dehydration ",1,1,0,Strong,Occasionally ,No ,0,Climate change
-Sumona chakma ,19,Higher Education ,Middle Class,Unmarried  ,,Not sure ,Tubewell ,In the House or 0 meter,0,1,0,1,Sometimes ,"Diarrhea , Skin Disease, Malnutrition ",1,0,0,Strong,Rarely ,No ,1,Overuse or pollution of water sources 
-Proya chakma,24,Higher Education ,Middle Class,Unmarried  ,,Yes,Tubewell ,Less than 500 meters,0,1,0,1,Never,"Skin Disease, Malnutrition ",0,0,0,Low,Almost daily ,Yes ,1,Poor infrastructure 
-Rashme Dewan ,22,Higher Education ,Middle Class,Unmarried  ,,Not sure,Kua ,Less than 500 meters ,0,1,1,1,Sometimes,Skin Disease ,1,1,0,Strong,Almost daily,Yes ,0,Climate change 
-Kobita Chakma,23,Higher Education ,Middle Class,Unmarried ,,Not sure ,Tubewell ,In the House or 0 meter,1,0,2,1,Sometimes ,Dehydration ,1,0,0,Moderate,Occasionally ,No ,1,Climate change 
-Sraboni Khisa,25,Higher Education ,Middle Class,Unmarried ,,Yes,Jiri,More than 1 km,1,1,2,1,Never ,"Skin Disease , Malnutrition ",1,0,0,Strong,Occasionally,No ,1,Overuse or pollution of water sources
-Mukta chakma,23,Higher Education ,Middle Class,Unmarried  ,,Yes,Jiri ,More than 1 km ,1,0,0,1,Sometimes ,"Diarrhea , Urinary Tract Infections , Skin Disease , Dehydration ",1,1,0,Low,Several times a week ,No ,0,Poor infrastructure 
-Jibonachakma,22,Higher Education,Middle Class,Unmarried  ,,Yes,Tubewell ,In the House or 0 meter,1,0,2,1,Never ,Others ,0,0,0,Low,Never ,Yes ,0,Others 
-Surita Chakma,18,Secondary Education ,Middle Class,Unmarried  ,,No,Tubewell ,In the House or 0 meter ,1,0,1,1,Never ,Others ,0,0,0,Strong,Rarely ,No ,0,Others 
-Suprova chakma,23,Higher Education,Middle Class,Unmarried ,,No,Tubewell ,In the House or 0 meter,1,0,2,1,Sometimes ,Skin Disease ,0,0,0,Low,Rarely ,Yes ,0,Climate change 
-Suchana chakma ,18,Secondary Education ,Middle Class,Unmarried  ,,Not sure ,Tubewell ,Less than 500 meters,1,0,0,1,Never ,Diarrhea ,0,0,0,Low,Never ,No ,1,Poor infrastructure
-ratna dewan,17,Secondary Education ,Middle Class,Unmarried  ,,No,Tubewell ,Less than 500 meters,1,0,0,1,Never ,Dehydration ,1,0,0,Low,Never ,No ,0,Others 
-??????? ???? ????? ,19,Secondary Education,Middle Class,Unmarried  ,,No,Tubewell ,Less than 500 meters ,1,1,0,1,Sometimes ,Others ,1,1,0,Low,Occasionally ,No ,0,Government mismanagement 
-Antora chakma,23,Secondary Education,Lower Class ,Unmarried  ,,Yes,Jiri,More than 1 km,1,1,2,0,Sometimes ,"Urinary Tract Infections, Skin Disease",1,1,1,Strong,Almost daily ,Yes ,1,Overuse or pollution of water sources
-?????? ?????,19,Higher Education ,Middle Class,Unmarried  ,,No,Tubewell ,In the House or 0 meter ,1,0,0,1,Never ,"Diarrhea , Skin Disease, Dehydration ",0,0,0,Moderate,Occasionally ,No ,0,Government mismanagement
-Supta chakma,23,Secondary Education,Lower Class ,Unmarried  ,,Not sure ,Tubewell ,Less than 500 meters ,1,1,2,1,Sometimes ,Others ,1,0,0,Low,Rarely,No ,0,Climate change 
-Alita Chakma ,19,Secondary Education,Middle Class,Unmarried  ,,Not sure ,Tubewell ,Less than 500 meters ,1,0,0,1,Never ,Skin Disease ,1,1,0,Moderate,Several times a week,No ,1,Overuse or pollution of water sources
-Choitali chakma,19,Secondary Education ,Middle Class,Unmarried ,,No,Tubewell ,In the House or 0 meter ,1,0,0,1,Never ,Skin Disease ,0,1,0,Strong,Rarely ,No ,0,Others 
-Joya chakma,18,Secondary Education,Middle Class,Unmarried  ,,No,Kua ,Less than 500 meters ,1,0,0,1,Sometimes ,Others ,0,0,0,Strong,Never ,No ,0,Climate change 
-?????? ????? ,19,Secondary Education,Middle Class,Unmarried  ,,Not sure ,Tubewell ,In the House or 0 meter ,1,0,2,1,Never ,"Diarrhea , Skin Disease",0,1,0,Strong,Rarely ,No ,0,Climate change 
-Shanaha Chakma,21,Higher Education ,Middle Class,Unmarried ,,Not sure,Tubewell ,500 meters to 1 km,1,0,1,1,Never,Others,0,0,0,Strong,Rarely ,No ,0,Others 
-Poheli Chakma,24,Higher Education,Middle Class,Unmarried ,,Not sure,Tubewell ,In the House or 0 meter ,0,0,2,1,Never ,Others,0,0,0,Strong,Never ,Yes ,0,Others 
-Sumonta ma,61,Primary Education,Lower Class,Married,Fisherman ,No,Tubewell,Less than 500 meters ,1,0,0,1,Never,Dehydration ,1,0,0,Moderate,Rarely ,No,1,Government mismanagement 
-Esha chakma,25,Higher Education,Middle Class,Unmarried ,,Not sure,Rain,In the House or 0 meter ,1,0,0,1,Never ,Reproductive Health Issues ,0,0,0,Low,Rarely ,No,0,Overuse or pollution of water sources 
-Somapti Chakma,23,Secondary Education,Lower Class,Married,Day Laborer ,Not sure ,Tubewell ,Less than 500 meters,1,0,0,1,Sometimes ,Skin Disease ,1,0,0,Moderate,Rarely ,Yes,1,Climate change 
-Rumel ma,38,Secondary Education,Middle Class,Married,Businessman ,Yes,Tubewell ,In the House or 0 meter ,1,0,0,1,Never,Dehydration ,0,0,0,Low,Never ,No,0,Overuse or pollution of water sources 
-Jasika Talukder ,19,No Education,Lower Class,Married,Farmer ,Yes,Jiri ,500 meters to 1 km,1,1,0,0,Sometimes ,"Skin Disease, Reproductive Health Issues",1,0,0,Strong,Several times a week,No,1,Poor infrastructure 
-Anika Khisa,21,No Education,Lower Class,Married,Farmer ,Yes,Jiri ,In the House or 0 meter ,0,1,0,0,Sometimes ,"Diarrhea , Skin Disease , Dehydration, Reproductive Health Issues  ",1,0,1,Strong,Several times a week,No,1,Poor infrastructure 
-Hira Chakma,27,Secondary Education,Higher Class,Married,Others Govt. Job ,Yes,Tubewell ,In the House or 0 meter ,1,0,0,0,Never ,Others ,0,0,0,Moderate,Never,No,0,Overuse or pollution of water sources 
-Munni ,25,Higher Education,Middle Class,Unmarried ,,Not sure,River ,500 meters to 1 km ,0,1,3,1,Sometimes ,"Urinary Tract Infections, Reproductive Health Issues ",1,0,0,Moderate,Occasionally ,No,1,Climate change
-Anonna dewan,31,Higher Education,Middle Class,Unmarried ,,No,Jiri ,Less than 500 meters,1,0,0,1,Sometimes ,"Urinary Tract Infections, Skin Disease",1,1,0,Strong,Occasionally ,No,1,Government mismanagement
-Anu Talukder ,15,No Education,Lower Class,Unmarried ,,Not sure,Jiri ,Less than 500 meters ,0,0,0,0,Sometimes ,"Skin Disease, Malnutrition,, Reproductive Health Issues  ",0,0,0,Moderate,Rarely ,No,1,Climate change
-Awojhi Dewan,14,Primary Education,Middle Class,Unmarried ,,Not sure,Kua ,Less than 500 meters,1,0,0,0,Sometimes ,Skin Disease ,0,0,0,Low,Never ,No,1,Climate change 
-Shesanti Chakma ,20,Secondary Education,Lower Class,Unmarried ,,No,Tubewell ,In the House or 0 meter ,1,0,0,1,Never ,"Urinary Tract Infections , Malnutrition ",1,0,0,Moderate,Rarely ,No,0,Climate change 
-Sithi Talukder ,19,Secondary Education,Middle Class,Unmarried ,,No,Tubewell ,In the House or 0 meter ,1,0,0,1,Never ,Urinary Tract Infections ,1,0,0,Low,Never ,Yes,0,Climate change 
-Jenti Chakma ,10,Primary Education,Middle Class,Unmarried ,,Not sure ,Tubewell ,In the House or 0 meter ,1,0,0,1,Never,Others ,0,0,0,Low,Never ,Yes,1,Overuse or pollution of water sources 
-Tunika khisa,25,Secondary Education,Lower Class,Unmarried ,,No,Tubewell ,In the House or 0 meter ,1,0,0,1,Never,"Urinary Tract Infections , Reproductive Health Issues",1,1,0,Low,Never ,Yes,0,Overuse or pollution of water sources
-Joyita chakma,24,Higher Education,Middle Class,Unmarried ,,No,Kua ,500 meters to 1 km ,0,1,2,1,Sometimes ,"Urinary Tract Infections , Skin Disease ",1,1,0,Strong,Several times a week,No,1,Poor infrastructure
-Kallyani Chakma,20,Secondary Education,Middle Class,Unmarried ,,Not sure ,Kua ,Less than 500 meters ,1,0,0,1,Never ,"Skin Disease, Diarrhea ",1,0,0,Moderate,Occasionally ,No,1,Climate change 
-Soptarshi Talukder ,24,Higher Education,Higher Class,Unmarried ,,No,Tubewell ,In the House or 0 meter ,1,0,2,1,Never,"Urinary Tract Infections , Reproductive Health Issues ",0,1,1,Moderate,Rarely ,No,0,Climate change 
-Asha chakma,21,Secondary Education,Middle Class,Married,Day Laborer ,Not sure,Tubewell ,In the House or 0 meter,1,0,0,1,Never,"Malnutrition , Reproductive Health Issues ",0,0,0,Low,Never ,Yes,0,Climate change 
-Jyoti Dewan,32,Primary Education,Middle Class,Married,Day Laborer ,No,Kua ,500 meters to 1 km ,0,1,0,1,Never ,"Diarrhea , Dehydration",0,0,0,Moderate,Several times a week ,No,1,Government mismanagement 
-Durjoyi Khisa,34,Secondary Education,Middle Class,Married,Farmer ,No,Tubewell ,Less than 500 meters ,1,0,0,1,Never,Dehydration,0,0,0,Moderate,Several times a week ,No,0,Climate change 
-Renuka Chakma,18,Secondary Education,Middle Class,Unmarried ,,Not sure,Jiri ,500 meters to 1 km ,1,1,2,1,Sometimes ,Diarrhea,0,0,0,Low,Never ,Yes,1,Climate change
-Tusti Chakma,15,Secondary Education,Middle Class,Unmarried ,,Not sure,Kua ,500 meters to 1 km ,1,1,0,1,Sometimes ,"Urinary Tract Infections , Malnutrition",1,0,0,Moderate,Rarely ,No,1,Climate change
-Kelina Chakma,35,Secondary Education,Middle Class,Married,Farmer ,No,Kua ,500 meters to 1 km ,1,0,0,1,Sometimes ,"Diarrhea , Skin Disease, Malnutrition ",1,0,0,Moderate,Occasionally,No,1,Government mismanagement 
-Puja Chakma,15,Primary Education,Middle Class,Unmarried ,,Not sure ,Tubewell ,In the House or 0 meter ,1,0,0,1,Never ,"Urinary Tract Infections , Skin Disease ",0,0,0,Low,Rarely ,No,0,Climate change
-Mahati ma,34,Secondary Education,Middle Class,Married,Teacher ,No,Tubewell ,In the House or 0 meter ,1,0,0,1,Never ,Others ,0,0,0,Low,Rarely,No,0,Climate change
-Purnobasonti Chakma ,55,Primary Education,Middle Class,Married,Farmer ,Not sure ,Tubewell ,Less than 500 meters ,1,0,0,1,Never,Diarrhea,0,1,0,Low,Never ,No,0,Climate change 
-Himu ,56,Secondary Education,Middle Class,Married,Farmer ,Not sure ,Tubewell ,Less than 500 meters ,1,0,2,1,Sometimes ,Urinary Tract Infections,0,1,0,Low,Rarely ,No,0,Government mismanagement
-Rokiti Dewan,32,Secondary Education,Middle Class,Married,Farmer ,Not sure,River ,500 meters to 1 km,1,0,3,0,Sometimes,"Diarrhea , Reproductive Health Issues",1,1,0,Strong,Several times a week,No,1,Overuse or pollution of water sources 
-Namonita Chakma ,61,Primary Education,Lower Class,Married,Farmer ,Not sure,Jiri ,500 meters to 1 km ,1,1,0,0,Sometimes ,"Skin Disease,  Dehydration ",1,1,0,Strong,Almost daily,No,1,Poor infrastructure 
-Suviggho Ma,36,Secondary Education,Middle Class,Married,Farmer ,No,Kua ,500 meters to 1 km ,1,1,0,0,Sometimes ,Others ,1,0,0,Strong,Almost daily ,No,1,Climate change 
-Bokuldevi Chakma,68,Primary Education,Middle Class,Married,Farmer ,Not sure ,Kua ,500 meters to 1 km,1,1,0,1,Sometimes ,"Dehydration, Skin Disease ",0,1,1,Moderate,Several times a week ,No,1,Government mismanagement 
-Prativa Dewan,51,Primary Education,Middle Class,Married,Farmer ,No,Tubewell ,Less than 500 meters ,0,1,0,0,Sometimes ,"Diarrhea , Skin Disease ",0,0,0,Moderate,Rarely,No,1,Climate change
-Susmita Chakma,23,Higher Education,Middle Class,Unmarried ,,Not sure,Kua ,500 meters to 1 km ,0,0,0,1,Sometimes ,"Diarrhea, Skin Disease, Reproductive Health Issues ",1,1,0,Strong,Several times a week,No,1,Climate change 
-Snigdha Chakma,24,Higher Education,Middle Class,Unmarried ,,Yes,Jiri ,Less than 500 meters ,1,0,2,1,Never,Urinary Tract Infections,1,0,0,Moderate,Never ,No,1,Climate change
-Tuhina Chakma,45,Primary Education,Middle Class,Married,Farmer ,Not sure ,Tubewell ,In the House or 0 meter ,1,0,0,1,Never,"Diarrhea , Skin Disease, Malnutrition",0,0,0,Low,Never ,No,0,Climate change 
-Kushi chakma ,25,Secondary Education,Lower Class,Unmarried ,,Not sure,Tubewell ,Less than 500 meters ,1,1,2,1,Sometimes ,Others ,1,1,1,Strong,Almost daily,Yes,0,Government mismanagement 
-Khensho ,22,Higher Education,Middle Class,Unmarried ,,No,Jiri ,Less than 500 meters ,0,1,1,1,Sometimes ,"Diarrhea , Skin Disease, Malnutrition",0,1,1,Low,Occasionally,Yes,1,Government mismanagement 
-Purba ddewan,16,Secondary Education,Middle Class,Unmarried ,,No,Tubewell ,Less than 500 meters,0,1,2,1,Never,Others ,1,0,0,Moderate,Almost daily ,No,0,Overuse or pollution of water sources
-Poripurna Chakma,25,Higher Education,Middle Class,Unmarried ,,Yes,Kua ,Less than 500 meters ,0,1,1,1,Sometimes ,Dehydration ,1,1,1,Strong,Almost daily ,Yes,1,Climate change
-Apurba Chakma ,20,Secondary Education,Middle Class,Unmarried ,,Not sure ,Jiri ,500 meters to 1 km,0,1,2,0,Sometimes ,"Skin Disease, Malnutrition, Urinary Tract Infections",1,0,0,Strong,Several times a week,No,1,Poor infrastructure 
-Boishaki Chakma,24,Higher Education,Middle Class,Unmarried ,,No,Kua ,Less than 500 meters ,0,1,0,0,Sometimes ,"Malnutrition , Reproductive Health Issues",0,0,0,Moderate,Occasionally,No,1,Government mismanagement 
-Jotishi Chakma,19,Higher Education,Middle Class,Unmarried ,,Not sure ,Jiri ,Less than 500 meters ,1,0,0,1,Sometimes ,"Urinary Tract Infections , Malnutrition ",1,1,0,Moderate,Rarely,No,0,Climate change
-Eshita Chakma,18,Secondary Education,Middle Class,Unmarried ,,Not sure ,Tubewell ,In the House or 0 meter ,1,1,2,1,Never ,Reproductive Health Issues,1,0,0,Low,Several times a week,Yes,1,Climate change 
-Putputya Chakma,18,Secondary Education,Middle Class,Unmarried ,,Not sure ,Tubewell ,In the House or 0 meter ,1,1,0,1,Sometimes ,Reproductive Health Issues,1,0,0,Low,Several times a week,No,0,Climate change 
-Snigdha Chakma ,24,Higher Education,Higher Class,Unmarried ,,Yes,River ,Less than 500 meters,1,0,3,1,Sometimes ,Others ,0,1,1,Moderate,Rarely ,No,0,Climate change 
-Purnima Chakma ,17,Secondary Education,Middle Class,Unmarried ,,Not sure,Tubewell ,Less than 500 meters,1,0,0,1,Never ,"Skin Disease, Dehydration ",0,0,0,Moderate,Rarely ,No,1,Government mismanagement 
-Netri Chakma,24,Higher Education,Middle Class,Unmarried ,,Not sure ,Tubewell ,Less than 500 meters ,1,0,0,1,Never ,"Diarrhea, Malnutrition",1,0,0,Low,Never,No,0,Poor infrastructure
-Prati Chakma ,18,Higher Education,Middle Class,Unmarried ,,No,Tubewell ,Less than 500 meters ,1,0,0,1,Never,Diarrhea ,1,0,0,Low,Never,No,0,Climate change
-Boisabi Chakma ,24,Higher Education,Middle Class,Unmarried ,,No,Tubewell ,In the House or 0 meter ,1,0,0,1,Never ,Diarrhea,1,0,0,Low,Never,No,1,Others 
-Hritu Chakma ,23,Higher Education,Middle Class,Unmarried ,,Not sure,Kua ,Less than 500 meters,1,0,0,1,Sometimes ,Others ,1,0,0,Moderate,Rarely ,No,1,Government mismanagement 
-Hetarthi Chakma ,25,Secondary Education,Middle Class,Unmarried ,,Yes,Tubewell ,Less than 500 meters ,1,0,0,1,Never ,"Malnutrition , Dehydration",1,0,0,Moderate,Occasionally,No,0,Climate change 
-Ela Talukder ,24,Secondary Education,Middle Class,Unmarried ,,No,Tubewell ,In the House or 0 meter ,1,0,0,1,Sometimes ,"Diarrhea , Urinary Tract Infections ",1,0,0,Low,Never ,No,0,Climate change 
-Joyenti Chakma ,20,Secondary Education,Middle Class,Unmarried ,,Not sure,Tubewell ,In the House or 0 meter ,1,0,0,1,Sometimes ,"Skin Disease , Dehydration ",1,0,0,Low,Never ,No,0,Government mismanagement 
-Tisha khisa,23,Higher Education,Higher Class,Unmarried ,,No,Kua ,500 meters to 1 km ,1,0,0,0,Sometimes ,"Diarrhea , Urinary Tract Infections",1,0,0,Low,Never ,No,1,Overuse or pollution of water sources
-Hlayoinue marma ,24,Higher Education,Lower Class,Unmarried ,,No,Jiri ,More than 1 km,1,0,2,1,Never ,"Others, Malnutrition, Urinary Tract Infections ",0,1,0,Moderate,Rarely ,No,0,Others 
-Sharna chakma ,18,Secondary Education,Middle Class,Unmarried ,,Not sure,Tubewell ,In the House or 0 meter,1,0,0,1,Never ,"Skin Disease , Urinary Tract Infections ",0,0,0,Strong,Rarely,Yes,0,Climate change
-Joyota Chakma ,21,Higher Education ,Middle Class,Unmarried  ,,No,Jiri ,More than 1 km,1,1,2,1,Never ,Others ,0,0,0,Strong,Rarely ,No ,0,Overuse or pollution of water sources 
-Labony Chakma ,20,Higher Education,Middle Class,Unmarried ,,No,Tubewell ,Less than 500 meters ,1,0,1,1,Sometimes ,Diarrhea ,1,0,0,Low,Several times a week ,No,1,Climate change 
-Juba Rekha chakma ,20,Higher Education,Middle Class,Unmarried ,,Yes,Kua ,Less than 500 meters,0,1,0,0,Sometimes ,"Malnutrition, Reproductive Health Issues ",1,1,1,Moderate,Almost daily ,No,1,Poor infrastructure 
-China chakma,22,Higher Education,Middle Class,Unmarried ,,Not sure,Jiri ,More than 1 km ,0,1,1,0,Sometimes ,"Malnutrition, Dehydration , Reproductive Health Issues",1,1,1,Strong,Several times a week,No,1,Climate change 
-Papiya Chakma ,24,Higher Education,Middle Class,Unmarried ,,No,River ,Less than 500 meters ,0,1,2,1,Sometimes ,"Skin Disease ,Diarrhea ",0,0,0,Strong,Never ,No,1,Government mismanagement 
-Mithila chakma ,21,Higher Education ,Middle Class,Unmarried  ,,Not sure,Kua ,500 meters to 1 km ,0,1,2,1,Never ,Skin Disease ,0,0,0,Low,Rarely ,No ,1,Poor infrastructure 
-Riya Chakma ,23,Higher Education,Higher Class,Unmarried ,,No,Tubewell ,In the House or 0 meter,1,0,2,1,Never ,Others ,1,1,1,Strong,Several times a week,Yes,0,Climate change
-Putuli ,22,Secondary Education,Middle Class,Married,Fisherman ,No,Tubewell ,In the House or 0 meter ,1,0,0,1,Sometimes ,Urinary Tract Infections,1,0,0,Moderate,Rarely ,No,0,Overuse or pollution of water sources
-Shila Chakma,28,Secondary Education,Middle Class,Married,Fisherman ,Not sure,Tubewell ,Less than 500 meters,1,0,0,1,Never ,"Dehydration , Reproductive Health Issues",1,0,0,Low,Never ,No,0,Climate change
-Protiki khisa,27,Primary Education,Middle Class,Married,Farmer ,No,Jiri ,500 meters to 1 km,1,0,2,0,Sometimes ,Reproductive Health Issues,1,1,1,Strong,Occasionally,No,1,Poor infrastructure
-Jisa Talukder ,32,No Education,Lower Class,Married,Day Laborer ,Not sure ,Kua ,500 meters to 1 km,1,0,2,0,Sometimes ,Reproductive Health Issues,0,0,0,Moderate,Several times a week ,No,0,Climate change
-Jillu Mro,30,Higher Education,Higher Class,Married,Teacher ,No,Tubewell ,In the House or 0 meter,1,0,2,1,Never,Dehydration ,0,0,0,Low,Never ,No,0,Climate change 
-Baby Dewan,27,Secondary Education,Middle Class,Married,Businessman ,Not sure,Jiri ,Less than 500 meters,0,1,0,0,Sometimes ,"Diarrhea , Dehydration ",1,1,0,Strong,Occasionally,No,0,Poor infrastructure
-Jesi Chakma,25,Higher Education,Middle Class,Married,Others Govt. Job,No,Tubewell ,In the House or 0 meter ,1,0,0,1,Sometimes ,Others ,1,1,0,Low,Occasionally  ,No,1,Climate change 
-Endra Chakma ,28,No Education,Lower Class,Married,Farmer ,No,Kua ,Less than 500 meters ,0,1,1,0,Sometimes ,"Urinary Tract Infections, Malnutrition ",1,0,0,Strong,Almost daily ,No,1,Poor infrastructure 
-Anindita,32,Higher Education,Higher Class,Married,Others Govt. Job   ,No,Jiri ,More than 1 km ,1,0,1,1,Sometimes ,"Urinary Tract Infections , Skin Disease",1,0,0,Strong,Several times a week ,Yes,1,Climate change 
-Jiyeeta Chakma,25,No Education,Lower Class,Married,Day Laborer ,Not sure,Kua ,500 meters to 1 km ,1,0,3,1,Never ,"Skin Disease, Malnutrition",1,0,0,Strong,Almost daily ,Yes,1,Government mismanagement
-Ismita Talukder,31,Primary Education,Lower Class,Married,Farmer ,No,Tubewell ,Less than 500 meters,1,0,0,1,Sometimes ,"Diarrhea, Reproductive Health Issues  ",1,0,0,Strong,Several times a week ,No,1,Climate change
-Suhealthy Chakma ,26,Secondary Education,Middle Class,Married,Farmer ,No,Jiri ,More than 1 km ,0,0,0,1,Never ,Malnutrition ,0,1,1,Strong,Almost daily ,No,1,Climate change 
-Weno Marma,20,Secondary Education,Middle Class,Married,Teacher ,Not sure,Tubewell ,Less than 500 meters ,1,0,1,1,Never,"Dehydration , Reproductive Health Issues",1,0,0,Strong,Never ,No,0,Climate change 
-Smrity Dewan,29,Secondary Education,Middle Class,Married,Farmer ,No,Tubewell ,In the House or 0 meter ,1,0,0,1,Never ,"Diarrhea , Dehydration ",1,0,0,Low,Never ,No,0,Climate change 
-U may Prue,24,Higher Education,Higher Class,Married,Teacher ,Not sure ,Tubewell ,In the House or 0 meter ,1,0,2,1,Never,"Malnutrition , Dehydration ",1,0,0,Low,Never ,Yes,0,Climate change 
-Oily Marma,26,No Education,Lower Class,Married,Farmer ,Not sure,Jiri ,More than 1 km ,0,1,0,0,Sometimes ,"Diarrhea , Skin Disease , Reproductive Health Issues",1,1,1,Strong,Almost daily,No,1,Poor infrastructure
-Anu Ching Marma,29,Secondary Education,Middle Class,Married,Day Laborer ,No,Jiri ,500 meters to 1 km,1,0,0,0,Sometimes ,"Diarrhea, Urinary Tract Infections",1,0,0,Strong,Several times a week ,No,1,Government mismanagement
-Srrsti Chakma ,29,Primary Education,Middle Class,Married,Farmer ,Not sure,Kua ,500 meters to 1 km,1,0,0,1,Sometimes ,"Skin Disease, Dehydration",0,0,0,Low,Rarely ,No,0,Poor infrastructure
-Josna Changma,19,Primary Education,Lower Class,Married,Farmer ,Not sure ,Kua ,More than 1 km ,1,0,0,0,Sometimes ,"Malnutrition , Reproductive Health Issues",1,0,0,Moderate,Occasionally  ,Yes,0,Poor infrastructure
-Paromi Talukder,25,Secondary Education,Middle Class,Married,Others Govt. Job,No,Tubewell ,In the House or 0 meter,1,0,2,1,Never,"Malnutrition , Dehydration ",1,0,0,Low,Never ,No,1,Climate change
-Uttara Chakma,33,Secondary Education,Middle Class,Married,Farmer ,Yes,Kua ,More than 1 km ,0,1,0,0,Sometimes ,"Urinary Tract Infections,  Reproductive Health Issues",1,1,1,Strong,Several times a week ,No,0,Poor infrastructure
-Urmi Chakma,27,Primary Education,Middle Class,Married,Fisherman ,Not sure,Tubewell ,In the House or 0 meter ,1,0,0,1,Never ,"Diarrhea , Dehydration",0,0,0,Low,Never ,No,0,Climate change 
-Bipuly Chakma,36,No Education,Lower Class,Married,Farmer ,Not sure,Jiri ,500 meters to 1 km ,1,0,0,1,Sometimes ,"Dehydration, Reproductive Health Issues ",0,0,0,Moderate,Occasionally ,No,0,Poor infrastructure 
-Shipra Chakma,29,Secondary Education,Middle Class,Married,Farmer ,No,Kua ,Less than 500 meters,1,0,0,1,Never,Reproductive Health Issues,0,0,0,Moderate,Several times a week ,No,1,Climate change 
-Laboni Khisa,25,Secondary Education,Middle Class,Married,Businessman ,No,Tubewell ,In the House or 0 meter,1,0,2,1,Never ,Diarrhea ,1,0,0,Moderate,Never,No,0,Climate change 
-Charlee Chakma,33,Primary Education,Middle Class,Married,Day Laborer,No,Jiri ,500 meters to 1 km ,1,0,0,1,Never,"Diarrhea , Urinary Tract Infections, Dehydration",1,0,0,Low,Rarely ,Yes,1,Poor infrastructure 
+edu_level,income_status,marital_status,husband_occu,unmarr_face_challenges,water_source,distance_of_source,water_availability ,seasonal_water_shortage,purification_method,water_for_handwashing,drink_from_unreliable_sources,recent_health_problems,menstrual_hygiene,exp_health_issue,medical_evidence,mental_stress_level,time_of_feeling_anxiety,govt_programs,water_affects_work,reason_of_water_scarcity
+Higher Education,Middle Class,Unmarried  ,,No,Rain,In the House or 0 meter,1,0,0,1,Never,Others ,0,0,0,Strong,Never ,No ,0,Others 
+Higher Education,Middle Class,Unmarried  ,,No,Tubewell ,Less than 500 meters ,1,1,0,1,Sometimes,"Diarrhea , Skin Disease, Malnutrition",0,0,0,Strong,Rarely,No ,1,Government mismanagement 
+Higher Education,Middle Class,Unmarried ,,No,Tubewell ,In the House or 0 meter ,1,1,0,1,Sometimes ,"Diarrhea , Skin Disease ,Dehydration ",1,0,1,Low,Rarely,Yes ,1,Overuse or pollution of water sources 
+Higher Education ,Middle Class,Unmarried  ,,Not sure,Rain,In the House or 0 meter,1,0,2,1,Never ,Others ,1,0,0,Strong,Rarely ,Yes ,0,Climate change
+Secondary Education,Middle Class,Unmarried  ,,Yes,Tubewell ,Less than 500 meters,1,0,2,1,Never ,Skin Disease,0,0,0,Moderate,Rarely ,No ,0,Government mismanagement 
+Higher Education ,Middle Class,Unmarried  ,,No,Tubewell ,500 meters to 1 km ,1,1,0,1,Sometimes,"Diarrhea , Urinary Tract Infections , Skin Disease , Malnutrition ",1,0,0,Moderate,Several times a week,No ,1,Poor infrastructure 
+Higher Education ,Lower Class ,Unmarried  ,,Yes,Tubewell ,In the House or 0 meter,1,0,2,1,Never,Skin Disease ,1,0,0,Moderate,Rarely ,Yes ,0,Climate change 
+Higher Education ,Middle Class,Unmarried  ,,Not sure,Tubewell ,Less than 500 meters,1,1,2,1,Sometimes ,"Skin Disease, Dehydration , Others ",1,1,0,Moderate,Rarely,Yes ,1,Overuse or pollution of water sources
+Higher Education ,Lower Class ,Unmarried  ,,Not sure,Kua ,500 meters to 1 km ,0,1,0,1,Sometimes ,"Urinary Tract Infections , Skin Disease , Dehydration ",1,1,0,Strong,Occasionally ,No ,0,Climate change
+Higher Education ,Middle Class,Unmarried  ,,Not sure ,Tubewell ,In the House or 0 meter,0,1,0,1,Sometimes ,"Diarrhea , Skin Disease, Malnutrition ",1,0,0,Strong,Rarely ,No ,1,Overuse or pollution of water sources 
+Higher Education ,Middle Class,Unmarried  ,,Yes,Tubewell ,Less than 500 meters,0,1,0,1,Never,"Skin Disease, Malnutrition ",0,0,0,Low,Almost daily ,Yes ,1,Poor infrastructure 
+Higher Education ,Middle Class,Unmarried  ,,Not sure,Kua ,Less than 500 meters ,0,1,1,1,Sometimes,Skin Disease ,1,1,0,Strong,Almost daily,Yes ,0,Climate change 
+Higher Education ,Middle Class,Unmarried ,,Not sure ,Tubewell ,In the House or 0 meter,1,0,2,1,Sometimes ,Dehydration ,1,0,0,Moderate,Occasionally ,No ,1,Climate change 
+Higher Education ,Middle Class,Unmarried ,,Yes,Jiri,More than 1 km,1,1,2,1,Never ,"Skin Disease , Malnutrition ",1,0,0,Strong,Occasionally,No ,1,Overuse or pollution of water sources
+Higher Education ,Middle Class,Unmarried  ,,Yes,Jiri ,More than 1 km ,1,0,0,1,Sometimes ,"Diarrhea , Urinary Tract Infections , Skin Disease , Dehydration ",1,1,0,Low,Several times a week ,No ,0,Poor infrastructure 
+Higher Education,Middle Class,Unmarried  ,,Yes,Tubewell ,In the House or 0 meter,1,0,2,1,Never ,Others ,0,0,0,Low,Never ,Yes ,0,Others 
+Secondary Education ,Middle Class,Unmarried  ,,No,Tubewell ,In the House or 0 meter ,1,0,1,1,Never ,Others ,0,0,0,Strong,Rarely ,No ,0,Others 
+Higher Education,Middle Class,Unmarried ,,No,Tubewell ,In the House or 0 meter,1,0,2,1,Sometimes ,Skin Disease ,0,0,0,Low,Rarely ,Yes ,0,Climate change 
+Secondary Education ,Middle Class,Unmarried  ,,Not sure ,Tubewell ,Less than 500 meters,1,0,0,1,Never ,Diarrhea ,0,0,0,Low,Never ,No ,1,Poor infrastructure
+Secondary Education ,Middle Class,Unmarried  ,,No,Tubewell ,Less than 500 meters,1,0,0,1,Never ,Dehydration ,1,0,0,Low,Never ,No ,0,Others 
+Secondary Education,Middle Class,Unmarried  ,,No,Tubewell ,Less than 500 meters ,1,1,0,1,Sometimes ,Others ,1,1,0,Low,Occasionally ,No ,0,Government mismanagement 
+Secondary Education,Lower Class ,Unmarried  ,,Yes,Jiri,More than 1 km,1,1,2,0,Sometimes ,"Urinary Tract Infections, Skin Disease",1,1,1,Strong,Almost daily ,Yes ,1,Overuse or pollution of water sources
+Higher Education ,Middle Class,Unmarried  ,,No,Tubewell ,In the House or 0 meter ,1,0,0,1,Never ,"Diarrhea , Skin Disease, Dehydration ",0,0,0,Moderate,Occasionally ,No ,0,Government mismanagement
+Secondary Education,Lower Class ,Unmarried  ,,Not sure ,Tubewell ,Less than 500 meters ,1,1,2,1,Sometimes ,Others ,1,0,0,Low,Rarely,No ,0,Climate change 
+Secondary Education,Middle Class,Unmarried  ,,Not sure ,Tubewell ,Less than 500 meters ,1,0,0,1,Never ,Skin Disease ,1,1,0,Moderate,Several times a week,No ,1,Overuse or pollution of water sources
+Secondary Education ,Middle Class,Unmarried ,,No,Tubewell ,In the House or 0 meter ,1,0,0,1,Never ,Skin Disease ,0,1,0,Strong,Rarely ,No ,0,Others 
+Secondary Education,Middle Class,Unmarried  ,,No,Kua ,Less than 500 meters ,1,0,0,1,Sometimes ,Others ,0,0,0,Strong,Never ,No ,0,Climate change 
+Secondary Education,Middle Class,Unmarried  ,,Not sure ,Tubewell ,In the House or 0 meter ,1,0,2,1,Never ,"Diarrhea , Skin Disease",0,1,0,Strong,Rarely ,No ,0,Climate change 
+Higher Education ,Middle Class,Unmarried ,,Not sure,Tubewell ,500 meters to 1 km,1,0,1,1,Never,Others,0,0,0,Strong,Rarely ,No ,0,Others 
+Higher Education,Middle Class,Unmarried ,,Not sure,Tubewell ,In the House or 0 meter ,0,0,2,1,Never ,Others,0,0,0,Strong,Never ,Yes ,0,Others 
+Primary Education,Lower Class,Married,Fisherman ,No,Tubewell,Less than 500 meters ,1,0,0,1,Never,Dehydration ,1,0,0,Moderate,Rarely ,No,1,Government mismanagement 
+Higher Education,Middle Class,Unmarried ,,Not sure,Rain,In the House or 0 meter ,1,0,0,1,Never ,Reproductive Health Issues ,0,0,0,Low,Rarely ,No,0,Overuse or pollution of water sources 
+Secondary Education,Lower Class,Married,Day Laborer ,Not sure ,Tubewell ,Less than 500 meters,1,0,0,1,Sometimes ,Skin Disease ,1,0,0,Moderate,Rarely ,Yes,1,Climate change 
+Secondary Education,Middle Class,Married,Businessman ,Yes,Tubewell ,In the House or 0 meter ,1,0,0,1,Never,Dehydration ,0,0,0,Low,Never ,No,0,Overuse or pollution of water sources 
+No Education,Lower Class,Married,Farmer ,Yes,Jiri ,500 meters to 1 km,1,1,0,0,Sometimes ,"Skin Disease, Reproductive Health Issues",1,0,0,Strong,Several times a week,No,1,Poor infrastructure 
+No Education,Lower Class,Married,Farmer ,Yes,Jiri ,In the House or 0 meter ,0,1,0,0,Sometimes ,"Diarrhea , Skin Disease , Dehydration, Reproductive Health Issues  ",1,0,1,Strong,Several times a week,No,1,Poor infrastructure 
+Secondary Education,Higher Class,Married,Others Govt. Job ,Yes,Tubewell ,In the House or 0 meter ,1,0,0,0,Never ,Others ,0,0,0,Moderate,Never,No,0,Overuse or pollution of water sources 
+Higher Education,Middle Class,Unmarried ,,Not sure,River ,500 meters to 1 km ,0,1,3,1,Sometimes ,"Urinary Tract Infections, Reproductive Health Issues ",1,0,0,Moderate,Occasionally ,No,1,Climate change
+Higher Education,Middle Class,Unmarried ,,No,Jiri ,Less than 500 meters,1,0,0,1,Sometimes ,"Urinary Tract Infections, Skin Disease",1,1,0,Strong,Occasionally ,No,1,Government mismanagement
+No Education,Lower Class,Unmarried ,,Not sure,Jiri ,Less than 500 meters ,0,0,0,0,Sometimes ,"Skin Disease, Malnutrition,, Reproductive Health Issues  ",0,0,0,Moderate,Rarely ,No,1,Climate change
+Primary Education,Middle Class,Unmarried ,,Not sure,Kua ,Less than 500 meters,1,0,0,0,Sometimes ,Skin Disease ,0,0,0,Low,Never ,No,1,Climate change 
+Secondary Education,Lower Class,Unmarried ,,No,Tubewell ,In the House or 0 meter ,1,0,0,1,Never ,"Urinary Tract Infections , Malnutrition ",1,0,0,Moderate,Rarely ,No,0,Climate change 
+Secondary Education,Middle Class,Unmarried ,,No,Tubewell ,In the House or 0 meter ,1,0,0,1,Never ,Urinary Tract Infections ,1,0,0,Low,Never ,Yes,0,Climate change 
+Primary Education,Middle Class,Unmarried ,,Not sure ,Tubewell ,In the House or 0 meter ,1,0,0,1,Never,Others ,0,0,0,Low,Never ,Yes,1,Overuse or pollution of water sources 
+Secondary Education,Lower Class,Unmarried ,,No,Tubewell ,In the House or 0 meter ,1,0,0,1,Never,"Urinary Tract Infections , Reproductive Health Issues",1,1,0,Low,Never ,Yes,0,Overuse or pollution of water sources
+Higher Education,Middle Class,Unmarried ,,No,Kua ,500 meters to 1 km ,0,1,2,1,Sometimes ,"Urinary Tract Infections , Skin Disease ",1,1,0,Strong,Several times a week,No,1,Poor infrastructure
+Secondary Education,Middle Class,Unmarried ,,Not sure ,Kua ,Less than 500 meters ,1,0,0,1,Never ,"Skin Disease, Diarrhea ",1,0,0,Moderate,Occasionally ,No,1,Climate change 
+Higher Education,Higher Class,Unmarried ,,No,Tubewell ,In the House or 0 meter ,1,0,2,1,Never,"Urinary Tract Infections , Reproductive Health Issues ",0,1,1,Moderate,Rarely ,No,0,Climate change 
+Secondary Education,Middle Class,Married,Day Laborer ,Not sure,Tubewell ,In the House or 0 meter,1,0,0,1,Never,"Malnutrition , Reproductive Health Issues ",0,0,0,Low,Never ,Yes,0,Climate change 
+Primary Education,Middle Class,Married,Day Laborer ,No,Kua ,500 meters to 1 km ,0,1,0,1,Never ,"Diarrhea , Dehydration",0,0,0,Moderate,Several times a week ,No,1,Government mismanagement 
+Secondary Education,Middle Class,Married,Farmer ,No,Tubewell ,Less than 500 meters ,1,0,0,1,Never,Dehydration,0,0,0,Moderate,Several times a week ,No,0,Climate change 
+Secondary Education,Middle Class,Unmarried ,,Not sure,Jiri ,500 meters to 1 km ,1,1,2,1,Sometimes ,Diarrhea,0,0,0,Low,Never ,Yes,1,Climate change
+Secondary Education,Middle Class,Unmarried ,,Not sure,Kua ,500 meters to 1 km ,1,1,0,1,Sometimes ,"Urinary Tract Infections , Malnutrition",1,0,0,Moderate,Rarely ,No,1,Climate change
+Secondary Education,Middle Class,Married,Farmer ,No,Kua ,500 meters to 1 km ,1,0,0,1,Sometimes ,"Diarrhea , Skin Disease, Malnutrition ",1,0,0,Moderate,Occasionally,No,1,Government mismanagement 
+Primary Education,Middle Class,Unmarried ,,Not sure ,Tubewell ,In the House or 0 meter ,1,0,0,1,Never ,"Urinary Tract Infections , Skin Disease ",0,0,0,Low,Rarely ,No,0,Climate change
+Secondary Education,Middle Class,Married,Teacher ,No,Tubewell ,In the House or 0 meter ,1,0,0,1,Never ,Others ,0,0,0,Low,Rarely,No,0,Climate change
+Primary Education,Middle Class,Married,Farmer ,Not sure ,Tubewell ,Less than 500 meters ,1,0,0,1,Never,Diarrhea,0,1,0,Low,Never ,No,0,Climate change 
+Secondary Education,Middle Class,Married,Farmer ,Not sure ,Tubewell ,Less than 500 meters ,1,0,2,1,Sometimes ,Urinary Tract Infections,0,1,0,Low,Rarely ,No,0,Government mismanagement
+Secondary Education,Middle Class,Married,Farmer ,Not sure,River ,500 meters to 1 km,1,0,3,0,Sometimes,"Diarrhea , Reproductive Health Issues",1,1,0,Strong,Several times a week,No,1,Overuse or pollution of water sources 
+Primary Education,Lower Class,Married,Farmer ,Not sure,Jiri ,500 meters to 1 km ,1,1,0,0,Sometimes ,"Skin Disease,  Dehydration ",1,1,0,Strong,Almost daily,No,1,Poor infrastructure 
+Secondary Education,Middle Class,Married,Farmer ,No,Kua ,500 meters to 1 km ,1,1,0,0,Sometimes ,Others ,1,0,0,Strong,Almost daily ,No,1,Climate change 
+Primary Education,Middle Class,Married,Farmer ,Not sure ,Kua ,500 meters to 1 km,1,1,0,1,Sometimes ,"Dehydration, Skin Disease ",0,1,1,Moderate,Several times a week ,No,1,Government mismanagement 
+PPrimary Education,Middle Class,Married,Farmer ,No,Tubewell ,Less than 500 meters ,0,1,0,0,Sometimes ,"Diarrhea , Skin Disease ",0,0,0,Moderate,Rarely,No,1,Climate change
+Higher Education,Middle Class,Unmarried ,,Not sure,Kua ,500 meters to 1 km ,0,0,0,1,Sometimes ,"Diarrhea, Skin Disease, Reproductive Health Issues ",1,1,0,Strong,Several times a week,No,1,Climate change 
+Higher Education,Middle Class,Unmarried ,,Yes,Jiri ,Less than 500 meters ,1,0,2,1,Never,Urinary Tract Infections,1,0,0,Moderate,Never ,No,1,Climate change
+Primary Education,Middle Class,Married,Farmer ,Not sure ,Tubewell ,In the House or 0 meter ,1,0,0,1,Never,"Diarrhea , Skin Disease, Malnutrition",0,0,0,Low,Never ,No,0,Climate change 
+Secondary Education,Lower Class,Unmarried ,,Not sure,Tubewell ,Less than 500 meters ,1,1,2,1,Sometimes ,Others ,1,1,1,Strong,Almost daily,Yes,0,Government mismanagement 
+Higher Education,Middle Class,Unmarried ,,No,Jiri ,Less than 500 meters ,0,1,1,1,Sometimes ,"Diarrhea , Skin Disease, Malnutrition",0,1,1,Low,Occasionally,Yes,1,Government mismanagement 
+Secondary Education,Middle Class,Unmarried ,,No,Tubewell ,Less than 500 meters,0,1,2,1,Never,Others ,1,0,0,Moderate,Almost daily ,No,0,Overuse or pollution of water sources
+Higher Education,Middle Class,Unmarried ,,Yes,Kua ,Less than 500 meters ,0,1,1,1,Sometimes ,Dehydration ,1,1,1,Strong,Almost daily ,Yes,1,Climate change
+Secondary Education,Middle Class,Unmarried ,,Not sure ,Jiri ,500 meters to 1 km,0,1,2,0,Sometimes ,"Skin Disease, Malnutrition, Urinary Tract Infections",1,0,0,Strong,Several times a week,No,1,Poor infrastructure 
+Higher Education,Middle Class,Unmarried ,,No,Kua ,Less than 500 meters ,0,1,0,0,Sometimes ,"Malnutrition , Reproductive Health Issues",0,0,0,Moderate,Occasionally,No,1,Government mismanagement 
+Higher Education,Middle Class,Unmarried ,,Not sure ,Jiri ,Less than 500 meters ,1,0,0,1,Sometimes ,"Urinary Tract Infections , Malnutrition ",1,1,0,Moderate,Rarely,No,0,Climate change
+Secondary Education,Middle Class,Unmarried ,,Not sure ,Tubewell ,In the House or 0 meter ,1,1,2,1,Never ,Reproductive Health Issues,1,0,0,Low,Several times a week,Yes,1,Climate change Secondary Education,Middle Class,Unmarried ,,Not sure ,Tubewell ,In the House or 0 meter ,1,1,0,1,Sometimes ,Reproductive Health Issues,1,0,0,Low,Several times a week,No,0,Climate change 
+Higher Education,Higher Class,Unmarried ,,Yes,River ,Less than 500 meters,1,0,3,1,Sometimes ,Others ,0,1,1,Moderate,Rarely ,No,0,Climate change 
+Secondary Education,Middle Class,Unmarried ,,Not sure,Tubewell ,Less than 500 meters,1,0,0,1,Never ,"Skin Disease, Dehydration ",0,0,0,Moderate,Rarely ,No,1,Government mismanagement 
+Higher Education,Middle Class,Unmarried ,,Not sure ,Tubewell ,Less than 500 meters ,1,0,0,1,Never ,"Diarrhea, Malnutrition",1,0,0,Low,Never,No,0,Poor infrastructure
+Higher Education,Middle Class,Unmarried ,,No,Tubewell ,Less than 500 meters ,1,0,0,1,Never,Diarrhea ,1,0,0,Low,Never,No,0,Climate change
+Higher Education,Middle Class,Unmarried ,,No,Tubewell ,In the House or 0 meter ,1,0,0,1,Never ,Diarrhea,1,0,0,Low,Never,No,1,Others 
+Higher Education,Middle Class,Unmarried ,,Not sure,Kua ,Less than 500 meters,1,0,0,1,Sometimes ,Others ,1,0,0,Moderate,Rarely ,No,1,Government mismanagement 
+Secondary Education,Middle Class,Unmarried ,,Yes,Tubewell ,Less than 500 meters ,1,0,0,1,Never ,"Malnutrition , Dehydration",1,0,0,Moderate,Occasionally,No,0,Climate change 
+Secondary Education,Middle Class,Unmarried ,,No,Tubewell ,In the House or 0 meter ,1,0,0,1,Sometimes ,"Diarrhea , Urinary Tract Infections ",1,0,0,Low,Never ,No,0,Climate change 
+Secondary Education,Middle Class,Unmarried ,,Not sure,Tubewell ,In the House or 0 meter ,1,0,0,1,Sometimes ,"Skin Disease , Dehydration ",1,0,0,Low,Never ,No,0,Government mismanagement 
+Higher Education,Higher Class,Unmarried ,,No,Kua ,500 meters to 1 km ,1,0,0,0,Sometimes ,"Diarrhea , Urinary Tract Infections",1,0,0,Low,Never ,No,1,Overuse or pollution of water sources
+Higher Education,Lower Class,Unmarried ,,No,Jiri ,More than 1 km,1,0,2,1,Never ,"Others, Malnutrition, Urinary Tract Infections ",0,1,0,Moderate,Rarely ,No,0,Others 
+Secondary Education,Middle Class,Unmarried ,,Not sure,Tubewell ,In the House or 0 meter,1,0,0,1,Never ,"Skin Disease , Urinary Tract Infections ",0,0,0,Strong,Rarely,Yes,0,Climate change
+Higher Education ,Middle Class,Unmarried  ,,No,Jiri ,More than 1 km,1,1,2,1,Never ,Others ,0,0,0,Strong,Rarely ,No ,0,Overuse or pollution of water sources 
+Higher Education,Middle Class,Unmarried ,,No,Tubewell ,Less than 500 meters ,1,0,1,1,Sometimes ,Diarrhea ,1,0,0,Low,Several times a week ,No,1,Climate change 
+Higher Education,Middle Class,Unmarried ,,Yes,Kua ,Less than 500 meters,0,1,0,0,Sometimes ,"Malnutrition, Reproductive Health Issues ",1,1,1,Moderate,Almost daily ,No,1,Poor infrastructure 
+Higher Education,Middle Class,Unmarried ,,Not sure,Jiri ,More than 1 km ,0,1,1,0,Sometimes ,"Malnutrition, Dehydration , Reproductive Health Issues",1,1,1,Strong,Several times a week,No,1,Climate change 
+Higher Education,Middle Class,Unmarried ,,No,River ,Less than 500 meters ,0,1,2,1,Sometimes ,"Skin Disease ,Diarrhea ",0,0,0,Strong,Never ,No,1,Government mismanagement 
+Higher Education ,Middle Class,Unmarried  ,,Not sure,Kua ,500 meters to 1 km ,0,1,2,1,Never ,Skin Disease ,0,0,0,Low,Rarely ,No ,1,Poor infrastructure 
+Higher Education,Higher Class,Unmarried ,,No,Tubewell ,In the House or 0 meter,1,0,2,1,Never ,Others ,1,1,1,Strong,Several times a week,Yes,0,Climate change
+Secondary Education,Middle Class,Married,Fisherman ,No,Tubewell ,In the House or 0 meter ,1,0,0,1,Sometimes ,Urinary Tract Infections,1,0,0,Moderate,Rarely ,No,0,Overuse or pollution of water sources
+Secondary Education,Middle Class,Married,Fisherman ,Not sure,Tubewell ,Less than 500 meters,1,0,0,1,Never ,"Dehydration , Reproductive Health Issues",1,0,0,Low,Never ,No,0,Climate change
+Primary Education,Middle Class,Married,Farmer ,No,Jiri ,500 meters to 1 km,1,0,2,0,Sometimes ,Reproductive Health Issues,1,1,1,Strong,Occasionally,No,1,Poor infrastructure
+No Education,Lower Class,Married,Day Laborer ,Not sure ,Kua ,500 meters to 1 km,1,0,2,0,Sometimes ,Reproductive Health Issues,0,0,0,Moderate,Several times a week ,No,0,Climate change
+Higher Education,Higher Class,Married,Teacher ,No,Tubewell ,In the House or 0 meter,1,0,2,1,Never,Dehydration ,0,0,0,Low,Never ,No,0,Climate change 
+Secondary Education,Middle Class,Married,Businessman ,Not sure,Jiri ,Less than 500 meters,0,1,0,0,Sometimes ,"Diarrhea , Dehydration ",1,1,0,Strong,Occasionally,No,0,Poor infrastructure
+Higher Education,Middle Class,Married,Others Govt. Job,No,Tubewell ,In the House or 0 meter ,1,0,0,1,Sometimes ,Others ,1,1,0,Low,Occasionally  ,No,1,Climate change 
+No Education,Lower Class,Married,Farmer ,No,Kua ,Less than 500 meters ,0,1,1,0,Sometimes ,"Urinary Tract Infections, Malnutrition ",1,0,0,Strong,Almost daily ,No,1,Poor infrastructure 
+Higher Education,Higher Class,Married,Others Govt. Job   ,No,Jiri ,More than 1 km ,1,0,1,1,Sometimes ,"Urinary Tract Infections , Skin Disease",1,0,0,Strong,Several times a week ,Yes,1,Climate change 
+No Education,Lower Class,Married,Day Laborer ,Not sure,Kua ,500 meters to 1 km ,1,0,3,1,Never ,"Skin Disease, Malnutrition",1,0,0,Strong,Almost daily ,Yes,1,Government mismanagement
+Primary Education,Lower Class,Married,Farmer ,No,Tubewell ,Less than 500 meters,1,0,0,1,Sometimes ,"Diarrhea, Reproductive Health Issues  ",1,0,0,Strong,Several times a week ,No,1,Climate change
+Secondary Education,Middle Class,Married,Farmer ,No,Jiri ,More than 1 km ,0,0,0,1,Never ,Malnutrition ,0,1,1,Strong,Almost daily ,No,1,Climate change 
+Secondary Education,Middle Class,Married,Teacher ,Not sure,Tubewell ,Less than 500 meters ,1,0,1,1,Never,"Dehydration , Reproductive Health Issues",1,0,0,Strong,Never ,No,0,Climate change 
+Secondary Education,Middle Class,Married,Farmer ,No,Tubewell ,In the House or 0 meter ,1,0,0,1,Never ,"Diarrhea , Dehydration ",1,0,0,Low,Never ,No,0,Climate change 
+Higher Education,Higher Class,Married,Teacher ,Not sure ,Tubewell ,In the House or 0 meter ,1,0,2,1,Never,"Malnutrition , Dehydration ",1,0,0,Low,Never ,Yes,0,Climate change 
+No Education,Lower Class,Married,Farmer ,Not sure,Jiri ,More than 1 km ,0,1,0,0,Sometimes ,"Diarrhea , Skin Disease , Reproductive Health Issues",1,1,1,Strong,Almost daily,No,1,Poor infrastructure
+Secondary Education,Middle Class,Married,Day Laborer ,No,Jiri ,500 meters to 1 km,1,0,0,0,Sometimes ,"Diarrhea, Urinary Tract Infections",1,0,0,Strong,Several times a week ,No,1,Government mismanagement
+Primary Education,Middle Class,Married,Farmer ,Not sure,Kua ,500 meters to 1 km,1,0,0,1,Sometimes ,"Skin Disease, Dehydration",0,0,0,Low,Rarely ,No,0,Poor infrastructure
+Primary Education,Lower Class,Married,Farmer ,Not sure ,Kua ,More than 1 km ,1,0,0,0,Sometimes ,"Malnutrition , Reproductive Health Issues",1,0,0,Moderate,Occasionally  ,Yes,0,Poor infrastructure
+Secondary Education,Middle Class,Married,Others Govt. Job,No,Tubewell ,In the House or 0 meter,1,0,2,1,Never,"Malnutrition , Dehydration ",1,0,0,Low,Never ,No,1,Climate change
+Secondary Education,Middle Class,Married,Farmer ,Yes,Kua ,More than 1 km ,0,1,0,0,Sometimes ,"Urinary Tract Infections,  Reproductive Health Issues",1,1,1,Strong,Several times a week ,No,0,Poor infrastructure
+Primary Education,Middle Class,Married,Fisherman ,Not sure,Tubewell ,In the House or 0 meter ,1,0,0,1,Never ,"Diarrhea , Dehydration",0,0,0,Low,Never ,No,0,Climate change 
+No Education,Lower Class,Married,Farmer ,Not sure,Jiri ,500 meters to 1 km ,1,0,0,1,Sometimes ,"Dehydration, Reproductive Health Issues ",0,0,0,Moderate,Occasionally ,No,0,Poor infrastructure 
+Secondary Education,Middle Class,Married,Farmer ,No,Kua ,Less than 500 meters,1,0,0,1,Never,Reproductive Health Issues,0,0,0,Moderate,Several times a week ,No,1,Climate change 
+Secondary Education,Middle Class,Married,Businessman ,No,Tubewell ,In the House or 0 meter,1,0,2,1,Never ,Diarrhea ,1,0,0,Moderate,Never,No,0,Climate change 
+Primary Education,Middle Class,Married,Day Laborer,No,Jiri ,500 meters to 1 km ,1,0,0,1,Never,"Diarrhea , Urinary Tract Infections, Dehydration",1,0,0,Low,Rarely ,Yes,1,Poor infrastructure 
+
